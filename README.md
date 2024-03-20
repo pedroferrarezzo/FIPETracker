@@ -25,7 +25,7 @@ Este sistema visa facilitar o encontro de dados sobre os veículos de interesse 
 
 ### Backend
 - **Kotlin:** Linguagem principal utilizada para o desenvolvimento do backend.
-- **Brasil API:** Utilizada para acessar dados específicos do Brasil, como informações de veículos através da API FIPE - [https://brasilapi.com.br/docs#tag/FIPE](https://brasilapi.com.br/docs#tag/FIPE/paths/~1fipe~1marcas~1v1~1{tipoVeiculo}/get).
+- **Brasil API:** Utilizada para acessar dados específicos do Brasil, como informações de veículos através da API FIPE - [[https://brasilapi.com.br/docs#tag/FIPE](https://brasilapi.com.br/docs#tag/FIPE/paths/~1fipe~1marcas~1v1~1{tipoVeiculo}/get).](https://brasilapi.com.br/docs#tag/FIPE/paths/~1fipe~1preco~1v1~1{codigoFipe}/get)
 - **SQLite:** Banco de dados utilizado para armazenamento local.
 
 ### Frontend
