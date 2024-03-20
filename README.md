@@ -6,7 +6,7 @@
 - IDE: Android Studio Iguana
 
 ## Hands On
-[![](https://storage.googleapis.com/movida-public-images/modelos/3210_image.jpg)](https://drive.google.com/file/d/1PIPQWvLc_y4Sic20JRtYbyV1PACu3vbO/view?usp=sharing)
+https://github.com/pedroferrarezzo/FIPETracker---FIAP/assets/124400471/47af4c16-d670-4aa1-89fc-e28452221d92
 
 ## Descrição
 
