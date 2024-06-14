@@ -1,4 +1,9 @@
-# FIPETracker
+# ATIVIDADE
+"Crie um aplicativo simples capaz de consumir um serviço e proporcionar algum benefício no cenário das cidades inteligentes. O app deve conter, no mínimo, duas e, no máximo, cinco telas.
+
+A ideia principal é que apenas consuma um serviço já existente, não se preocupe em criar um back-end, apenas crie o back-end se for do seu interesse e queira produzir algum serviço específico para atender seu projeto, no mais, existem muitos serviços gratuitos na internet que podem ser úteis em cidades inteligentes, desde informações sobre clima, geolocalização, endereços de entrega, entre outros.
+
+Lembre-se: para esta entrega, você deverá criar um app utilizando o conteúdo da fase, ou seja, um app nativo em Android ou iOS, você decide baseado no tipo de equipamento que possua."
 
 ## Pré-requisitos
 
